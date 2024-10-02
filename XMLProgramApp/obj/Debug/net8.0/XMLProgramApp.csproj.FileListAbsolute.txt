@@ -1,0 +1,14 @@
+/Users/rileyhart/ExtraCredit/XMLProgramApp/bin/Debug/net8.0/XMLProgramApp
+/Users/rileyhart/ExtraCredit/XMLProgramApp/bin/Debug/net8.0/XMLProgramApp.deps.json
+/Users/rileyhart/ExtraCredit/XMLProgramApp/bin/Debug/net8.0/XMLProgramApp.runtimeconfig.json
+/Users/rileyhart/ExtraCredit/XMLProgramApp/bin/Debug/net8.0/XMLProgramApp.dll
+/Users/rileyhart/ExtraCredit/XMLProgramApp/bin/Debug/net8.0/XMLProgramApp.pdb
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.AssemblyInfoInputs.cache
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.AssemblyInfo.cs
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.csproj.CoreCompileInputs.cache
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.dll
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/refint/XMLProgramApp.dll
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.pdb
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/XMLProgramApp.genruntimeconfig.cache
+/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/Debug/net8.0/ref/XMLProgramApp.dll
