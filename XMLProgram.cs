@@ -75,6 +75,12 @@ namespace ExtraCredit
                 }
             }
         }
+/*************  ✨ Codeium Command ⭐  *************/
+        /// <summary>
+        /// Prints the total cost of all books in the given XML NodeList.
+        /// </summary>
+        /// <param name="bookNodes">The XML NodeList containing the books.</param>
+/******  4be0874a-f4dc-48e6-9b13-9d2ee4394f9b  *******/
         public static void printTotalCostOfAllBooks(XmlNodeList bookNodes)
         {
             double totalCost = 0.0;
