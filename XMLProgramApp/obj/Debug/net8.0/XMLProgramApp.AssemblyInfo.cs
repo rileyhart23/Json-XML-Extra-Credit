@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XMLProgramApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12aa4501ae96828445fc2b63a1633686c868ec98")]
 [assembly: System.Reflection.AssemblyProductAttribute("XMLProgramApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XMLProgramApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rileyhart/ExtraCredit/XMLProgramApp/XMLProgramApp.csproj",
+      "projectUniqueName": "/Users/rileyhart/GitHub/WebsiteDevPortfolio/Json-XML-Extra-Credit/XMLProgramApp/XMLProgramApp.csproj",
       "projectName": "XMLProgramApp",
-      "projectPath": "/Users/rileyhart/ExtraCredit/XMLProgramApp/XMLProgramApp.csproj",
+      "projectPath": "/Users/rileyhart/GitHub/WebsiteDevPortfolio/Json-XML-Extra-Credit/XMLProgramApp/XMLProgramApp.csproj",
       "packagesPath": "/Users/rileyhart/.nuget/packages/",
-      "outputPath": "/Users/rileyhart/ExtraCredit/XMLProgramApp/obj/",
+      "outputPath": "/Users/rileyhart/GitHub/WebsiteDevPortfolio/Json-XML-Extra-Credit/XMLProgramApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rileyhart/.nuget/NuGet/NuGet.Config"

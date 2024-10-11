@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XMLProgramApp
-build_property.ProjectDir = /Users/rileyhart/ExtraCredit/XMLProgramApp/
+build_property.ProjectDir = /Users/rileyhart/GitHub/WebsiteDevPortfolio/Json-XML-Extra-Credit/XMLProgramApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
